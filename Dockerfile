@@ -1,4 +1,4 @@
-FROM debian:strech
+FROM debian:stretch
 
 RUN apt-get update && apt-get -y \
   awscli \
