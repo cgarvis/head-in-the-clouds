@@ -5,3 +5,7 @@ RUN apt-get update && apt-get install -y \
   docker \
   git \
   vim
+
+EXPOSE [22]
+
+ENTRYPOINT ["/bin/bash"]
