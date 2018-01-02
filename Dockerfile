@@ -6,6 +6,6 @@ RUN apt-get update && apt-get install -y \
   git \
   vim
 
-EXPOSE [22]
+EXPOSE 22
 
 ENTRYPOINT ["/bin/bash"]
