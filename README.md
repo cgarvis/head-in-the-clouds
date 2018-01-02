@@ -1,2 +1,3 @@
-# head-in-the-clouds
+# head-in-the-clouds ![aws build badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicjdxWnZUYnhIUlNjanhSN0RTRHl2MWhEb05zNlMxVDlMSHlDZ015SWxmdnp3b2FITDQxTTdpVDVlTHZzSzN0aXpkTFVjM2U3dUpJTmFkb1ZuVm1lR1RvPSIsIml2UGFyYW1ldGVyU3BlYyI6Im9WOHdzZUM5dllyaU5yKzYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 Development in the cloud
